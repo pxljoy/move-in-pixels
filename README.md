@@ -9,3 +9,7 @@ Here's an example of Mulan (taking about 5 minutes to process) with the options 
 ![Mulan Example](poster-mulan2.png)
 
 *There are 692 total bands, one for each 10 seconds of the movie. We've taken the second most dominant colours from these frames.*
+
+Another example using the incredible video [LIFE BEYOND II: The Museum of Alien Life (4K)](https://www.youtube.com/watch?v=ThDYazipjSI), using the same settings above:
+
+![Universe Example](poster-universe.png)
